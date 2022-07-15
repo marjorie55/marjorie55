@@ -5,8 +5,9 @@ Soy estudiante de Ingeniería es Sistemas de Información y Ciencias de la Tecno
 
 - 🌱 I’m currently learning HTML, entrando al mundo del desarrollo web.
 - ⚡ Fun fact, me gustan los k-dramas románticos.
-
-
+- 👩‍💻 Hobbies: me gusta ir al gimnasio🏋️, tocar el piano🎹 y escuchar música pop en inglés🎧.
+- 📫 How to reach me: 
+      find me on Instagram: https://www.instagram.com/marjorie_ga5/
 
 <!--
 **marjorie55/marjorie55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
