@@ -1,9 +1,10 @@
 [![pruebaimagen-Git-Hut2.jpg](https://i.postimg.cc/76H3SkVW/pruebaimagen-Git-Hut2.jpg)](https://postimg.cc/8FYfVxxR)
+About me🤔
 
 Soy estudiante de Ingeniería es Sistemas de Información y Ciencias de la Tecnología en la Universidad Mariano Gálvez, a unos cuantos semestres de graduarme.
 
 - 🌱 I’m currently learning HTML, entrando al mundo del desarrollo web.
-- ⚡ Fun fact, me gustan los k-dramas romanticos.
+- ⚡ Fun fact, me gustan los k-dramas románticos.
 
 
 
