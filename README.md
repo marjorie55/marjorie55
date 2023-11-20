@@ -1,4 +1,4 @@
-[![pruebaimagen-Git-Hut2.jpg](https://i.postimg.cc/76H3SkVW/pruebaimagen-Git-Hut2.jpg)](https://postimg.cc/8FYfVxxR)
+<!-- [![pruebaimagen-Git-Hut2.jpg](https://i.postimg.cc/76H3SkVW/pruebaimagen-Git-Hut2.jpg)](https://postimg.cc/8FYfVxxR)
 About me🤔
 
 Soy estudiante de Ingeniería es Sistemas de Información y Ciencias de la Tecnología en la Universidad Mariano Gálvez, a unos cuantos semestres de graduarme.
@@ -10,7 +10,7 @@ Soy estudiante de Ingeniería es Sistemas de Información y Ciencias de la Tecno
 
      Find me on Instagram: https://www.instagram.com/marjorie_ga5/
 
-<!--
+
 **marjorie55/marjorie55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
